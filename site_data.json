@@ -1,0 +1,244 @@
+{
+    "hero": {
+        "title": "DJ JEFF BONE",
+        "tagline": "DJ\/Producer\/Remixer",
+        "button1_text": "Listen Now",
+        "button1_link": "#music",
+        "button2_text": "Upcoming Shows",
+        "button2_link": "#events",
+        "background_type": "image",
+        "background_image": "assets\/img\/hero-bg.jpg",
+        "background_video": ""
+    },
+    "about": {
+        "title": "ABOUT DJ JEFF BONE",
+        "description": "Canada has long been a hot bed of Electronic Dance Music, showcasing producers in all their glory from every corner of the land. Jeff Bone is one of those DJ\/Producers that continues to add to the rich vibrancy of Canadian dance floor culture. He is celebrated as an artist that understands the foundation blocks required to take people on a musical journey. He crafts delicious soundscapes of extraordinary music designed to entice and inspire listeners to get down and dance in the moment.\r\n\r\nJeff Bone\u2019s music has been heard by millions across the airwaves as his tracks have been featured on high rotation around the globe, and his DJ skills have been witnessed as far afield as Mexico and the USA.\r\n\r\nHailing from Toronto and overseeing the outstanding recording facility, JL Recording Studios, Jeff understands the sonic nuances required to take music to the next level. Like many who really start to make a mark as a producer, he has plied his trade for over two decades, and since 2017 has really hit a purple patch with his production releases. DJing from the age of 16 at Toronto\u2019s fabled Nuts and Bolts venue and musically trained as a guitarist, Jeff is able to bring that learned legacy to his releases with an outstanding array of musical engineering skills.\r\n\r\nMulti-dimensional and befitting a producer of his experience, he is able to navigate the waters of melodic, infectious House grooves, tinged with his eclectic influences gained over a lifetime of dedication to the art. Away from the House Music arena, he started his journey by listening to artists such as Queen, David Bowie, George Clinton, Morris Day, Kraftwerk, Tangerine Dream, Depeche Mode and Gary Numan.\r\n\r\nAs the pop sensibilities gave way to a love of pure dance music and House; Frankie Knuckles, Jellybean Benitez, Giorgio Moroder, David Morales, and Bob Sinclar came to the fore. Those integral building blocks of the masters are clearly evident as he enters the most prolific period of his career to date.\r\n\r\nRemixes are the cornerstone of how a producer becomes a fully-rounded artist and Jeff Bone\u2019s catalogue of work shows a complete understanding of how to update and recast classic tracks for a new generation of listeners. His emergence on to the big stage started in 2017 with his version of \u2018Digital Kitty\u2019 out on Slammin Media. Since then, he has been releasing remixes underpinned by meticulous class which have reached audiences far and wide.\r\n\r\nHe has produced reimaginings of classic tracks such as Janet Jackson\u2019s \u2018Control\u2019, Halsey\u2019s \u2018I'm Not Mad\u2019, Aerosmith\u2019s \u2018Sweet Emotion\u2019 and Jennifer Holliday\u2019s \u2018No Frills Love\u2019. To date these tracks have featured in heavy rotation on 34 radio stations across the planet, reaching over a million listeners.\r\n\r\nThis is the springboard that will see him delivering more remixes in 2021 but more specifically, a rolling wave of original work which is bound to send his audiences to the far reaches of dance floor heaven. Imbued with extraordinary synth work, textured backdrops, moving baselines, and expressive vocals, Jeff Bone is set to add to his enormous pedigree that has seen him work alongside artists such as Nico Sykes and the legendary Manchester DJ, Paul Walker.\r\n\r\n\"For me, it's all about mood and an uplifting, infectious groove... playing those tracks to get you tapping your feet and nodding your head without you realizing it, regardless of style, genre, tempo, or release date.\u201d\r\n\r\nJeff Bone's star is rising as the globe transitions into a new era of dance floor experiences, creating music that will reach an ever-expanding legion of House Music fans. Jeff Bone is destined to play a significant role in the world of house music for many years to come due to his unquestionable ability and enthusiasm for music and the art of production.\r\n",
+        "image": "assets\/img\/uploads\/Theressomethingtrulyfulfillingaboutreturningtothecozyconfinesofthestudiowheremagicisbrewedanddreamstakeshape_1.jpg",
+        "stats_titles": {
+            "years": "Happy Dancing People",
+            "shows": "Play Dates",
+            "countries": "Play Hours",
+            "festivals": "Songs Released"
+        },
+        "stats": {
+            "years": "7363270+",
+            "shows": "4576+",
+            "countries": "22880+",
+            "festivals": "53+"
+        }
+    },
+    "events": [
+        {
+            "id": "1743435181575",
+            "date": "2025-09-20",
+            "venue": "Slag Leather Party - Club Cedras",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/Sept20_1.png"
+        },
+        {
+            "id": "1743435246408",
+            "date": "2025-09-13",
+            "venue": "Halloween Dance - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/Sept13_1.png"
+        },
+        {
+            "id": "1743435734016",
+            "date": "2025-09-06",
+            "venue": "The Wild Things Party - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/Sept6.png"
+        },
+        {
+            "id": "1743435839760",
+            "date": "2025-08-30",
+            "venue": "Sexy Superhero Night - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/Aug30.png"
+        },
+        {
+            "id": "1743435887061",
+            "date": "2025-08-23",
+            "venue": "The Slay Party - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/Aug23.png"
+        },
+        {
+            "id": "1743436025696",
+            "date": "2025-08-03",
+            "venue": "Black And White Ball - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/SunAug3.png"
+        },
+        {
+            "id": "1743436124014",
+            "date": "2025-07-19",
+            "venue": " Decades Of Music Party - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/July19.png"
+        },
+        {
+            "id": "1743436178865",
+            "date": "2025-06-28",
+            "venue": "Canada Day Weekend - Red & White Party - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/June28.png"
+        },
+        {
+            "id": "1743436233631",
+            "date": "2025-06-07",
+            "venue": "Kiki At The Tiki - Poolside Party - Cedars Resort",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/June7.png"
+        },
+        {
+            "id": "1743436296265",
+            "date": "2025-05-24",
+            "venue": "The Decades Party - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/May24_1.png"
+        },
+        {
+            "id": "1743436350700",
+            "date": "2025-05-17",
+            "venue": "Victoria Day Weekend - Uniform Night - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/May17_2.png"
+        },
+        {
+            "id": "1743436393850",
+            "date": "2025-07-26",
+            "venue": "Pitbull & Fur - Camp Boozy - Cedars Resort Poolside",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/July26.png"
+        },
+        {
+            "id": "1743436581919",
+            "date": "2025-05-10",
+            "venue": "Opening Weekend Bash - Club Cedars",
+            "location": "Hamilton, Ontario",
+            "ticketLink": "",
+            "image": "assets\/img\/uploads\/May10_2.png"
+        }
+    ],
+    "music": [
+        {
+            "id": "1",
+            "title": "Jeff Bone \u2018 Zero Future' - Terminal Drive Mix (Tech-House)",
+            "embed": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/2062229328&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"><\/iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\" title=\"\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8<\/a> \u00b7 <a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\/zero-future-terminal-drive-mix-tech-house\" title=\"Jeff Bone \u2018 Zero Future&#x27; - Terminal Drive Mix (Tech-House)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Jeff Bone \u2018 Zero Future&#x27; - Terminal Drive Mix (Tech-House)<\/a><\/div>"
+        },
+        {
+            "id": "2",
+            "title": "Burton Cummings 'I'm Scared' - JEFF BONE (House Remix)",
+            "embed": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/2039564284&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"><\/iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\" title=\"\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8<\/a> \u00b7 <a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\/im-scared\" title=\"Burton Cummings &#x27;I&#x27;m Scared&#x27; - JEFF BONE (House Remix)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Burton Cummings &#x27;I&#x27;m Scared&#x27; - JEFF BONE (House Remix)<\/a><\/div>"
+        },
+        {
+            "id": "1743254297270",
+            "title": "Brit Smith 'Karma\u2019s A Bitch' - JEFF BONE (Tech House Bootleg)",
+            "embed": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/1808459937&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"><\/iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\" title=\"\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8<\/a> \u00b7 <a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\/karmas-a-bitch-jeff-bone-tech-house-bootleg\" title=\"Brit Smith &#x27;Karma\u2019s A Bitch&#x27; - JEFF BONE (Tech House Bootleg)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Brit Smith &#x27;Karma\u2019s A Bitch&#x27; - JEFF BONE (Tech House Bootleg)<\/a><\/div>"
+        },
+        {
+            "id": "1743625908602",
+            "title": "Heart 'Crazy On You' - JEFF BONE (House Remix)",
+            "embed": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/1687760664&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"><\/iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\" title=\"\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8<\/a> \u00b7 <a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\/heart-crazy-on-you-jeff-bone-house-remix\" title=\"Heart &#x27;Crazy On You&#x27; - JEFF BONE (House Remix)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Heart &#x27;Crazy On You&#x27; - JEFF BONE (House Remix)<\/a><\/div>"
+        },
+        {
+            "id": "1743680506993",
+            "title": "Natalie Cole 'Pink Cadillac' - JEFF BONE (Bootleg House Mix)",
+            "embed": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/1382198488&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"><\/iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\" title=\"\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">\ud835\udddd\ud835\uddd8\ud835\uddd9\ud835\uddd9 \ud835\uddd5\ud835\udde2\ud835\udde1\ud835\uddd8<\/a> \u00b7 <a href=\"https:\/\/soundcloud.com\/dj-jeff-bone\/natalie-cole-pink-cadillac-jeff-bone-2k22-bootleg-mix\" title=\"Natalie Cole &#x27;Pink Cadillac&#x27; - JEFF BONE (Bootleg House Mix)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Natalie Cole &#x27;Pink Cadillac&#x27; - JEFF BONE (Bootleg House Mix)<\/a><\/div>"
+        }
+    ],
+    "videos": [
+        {
+            "id": "1",
+            "title": "Jeff Bone 'Zero Future' - Tech House Slapper Deep Sensory Overload Ignites the Dancefloor",
+            "embed": "https:\/\/www.youtube.com\/watch?v=0pg_fYPLZW4",
+            "description": "Dive headfirst into the abyss with Jeff Bone's \u201cZero Future,\" a tech-house anthem for the digital age. This original track is a potent blend of raw energy and dystopian dread, and the stench of greed\r\nguaranteed to ignite the dancefloor. "
+        },
+        {
+            "id": "1743268603919",
+            "title": "DJ Jeff Bone's Ultimate Nightclub Experience | Dance Floor Madness 2023",
+            "embed": "https:\/\/www.youtube.com\/watch?v=BIVv6RCfCoE",
+            "description": "Get ready for an electrifying journey as we take you on a wild ride through this mesmerizing promo video, allowing you to relive Jeff Bone's unforgettable nightclub experiences like never before!\r\n"
+        }
+    ],
+    "gallery": [
+        {
+            "id": "1",
+            "src": "assets\/img\/uploads\/PreparetohavethetimeofyourlifeatthemagnificentMantamarBeachClubPVMexicowithspecialguestJeffBone.jpg",
+            "alt": "Prepare to have the time of your life at the magnificent Mantamar Beach Club PV Mexico with special guest Jeff Bone"
+        },
+        {
+            "id": "2",
+            "src": "assets\/img\/uploads\/Superhero-Sexy-Groove-Infectious-JeffBone-Party.jpg",
+            "alt": "With Jeff Bone's infectious house rhythms, sexy superheroes are loose and ready to groove at the hottest party of the year"
+        },
+        {
+            "id": "3",
+            "src": "assets\/img\/uploads\/JeffBoneinthestudioashebringstheDigitalKittyremixtolifeYouvegottogivethisfreshtakealisten.jpg",
+            "alt": "Jeff Bone in the studio as he brings his Digital Kitty remix to life. You've got to give this fresh take a listen!"
+        },
+        {
+            "id": "4",
+            "src": "assets\/img\/uploads\/Jeff-Bone-Pitbull-Camp-Boozy-Sold-Out-Crowd-Eruption.jpg",
+            "alt": "Feel the energy as the crowd erupts in excitement to Jeff Bone spinning the hottest tracks at Pitbull's sold-out Camp Boozy Event"
+        },
+        {
+            "id": "5",
+            "src": "assets\/img\/uploads\/TheheadlineDJatPitbullandFurssold-outCampBoozyeventwasJeffBoneAmemorableeveningfilledwithgreatmusicandupbeatvibes.jpg",
+            "alt": "The headline DJ at Pitbull and Fur's sold-out Camp Boozy event was Jeff Bone! A memorable evening filled with great music and upbeat vibes"
+        },
+        {
+            "id": "6",
+            "src": "assets\/img\/uploads\/Superhero-Party-Climax-DJ-JeffBone-HouseGrooves.jpg",
+            "alt": "Superhero's ultimate party experience climaxes to DJ Jeff Bone\u2019s thumping House grooves"
+        },
+        {
+            "id": "1743370143773",
+            "src": "assets\/img\/uploads\/Believe-JeffBone-Recording-Mixing-Revolutionary-Level.jpg",
+            "alt": "\u2018Believe\u2019 Jeff Bone raising the bar for both recording and mixing"
+        },
+        {
+            "id": "1743370284223",
+            "src": "assets\/img\/uploads\/Jeff-Bone-Masspool-USA-Top-Ten-Remix-Dominance.jpg",
+            "alt": "Jeff Bone dominates the charts with three of his remixes in Masspool's Top 10 Tracks in the USA"
+        },
+        {
+            "id": "1743370345524",
+            "src": "assets\/img\/uploads\/LabourDayblowoutextravaganzaasJeffBoneblowsthedoorsoffthedanceflooratTheBarnClubCedars_1.jpg",
+            "alt": "Labour Day blowout extravaganza as Jeff Bone blows the doors off the dance floor at The Barn, Club Cedars"
+        },
+        {
+            "id": "1743371394821",
+            "src": "assets\/img\/uploads\/GetreadytogrooveasJeffBonespinsthehottesthousetracksatthenotoriousLaNocheRooftopGardenBarinPuertoVallartaMexico.jpg",
+            "alt": "Get ready to groove as Jeff Bone spins the hottest house tracks at the notorious La Noche Rooftop Garden Bar in Puerto Vallarta, Mexico!"
+        },
+        {
+            "id": "1743420083099",
+            "src": "assets\/img\/uploads\/DowntimebetweengigswithMikeRuizandWayneSchatzatMarisqueriaLosLiriosPuertoVallartaMexico.jpg",
+            "alt": "Down time between gigs with Mike Ruiz and Wayne Schatz at Marisqueria Los Lirios, Puerto Vallarta, Mexico"
+        }
+    ],
+    "contact": {
+        "email": "",
+        "phone": "+1 (555) 123-4567",
+        "socials": {
+            "instagram": "https:\/\/www.instagram.com\/jeffbonemusic\/",
+            "facebook": "https:\/\/www.facebook.com\/jlstudiosrecording\/",
+            "twitter": "https:\/\/x.com\/jeffbonemusic",
+            "soundcloud": "https:\/\/soundcloud.com\/dj-jeff-bone"
+        }
+    }
+}
